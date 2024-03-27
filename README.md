@@ -1,8 +1,8 @@
-# Frontend Mentor - 🌈 Tip Calculator App Solution
+# Frontend Mentor -  Tip Calculator App Solution
 
 This is a solution to the [Tip calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of Contents 📜
+## Table of Contents 
 
 - [Frontend Mentor - Tip Calculator App Solution](#frontend-mentor----tip-calculator-app-solution)
   - [Table of Contents](#table-of-contents)
